@@ -1,0 +1,24 @@
+what is java?
+programming language lol
+
+srsly how does this work-
+
+------   |---------|
+|Code|-->| COMPILER|---> 101011100011
+------   |---------|
+
+Source file-->compile--->Byte Code
+
+Since java is platform independent, we need a platform to run it.
+
+The Platform is also  known as the virtual machine.
+
+And this virtaul machine will only work with byte code.
+
+This virtual machine will only work with java source file,
+therefore, its called java virtual machine(JVM).
+
+
+
+
+
