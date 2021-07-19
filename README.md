@@ -1,2 +1,2 @@
-# Sphere-Online-judge
-Sphere online judge problems
+# HackerRank Problems
+HackerRank Solved java Problems
